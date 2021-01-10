@@ -1,0 +1,17 @@
+ 	     C:\Users\swaroop\Desktop\Stacks_And_Queues_Assignment\main.c        
+        <stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<string.h>
+	"stacklink.h"
+
+             C:\Users\swaroop\Desktop\Stacks_And_Queues_Assignment\stack.c
+        <stdint.h>
+	<assert.h>
+	"stacklink.h"
+	<string.h>
+	<ctype.h>
+             C:\Users\manoj\swaroop\Stacks_And_Queues_Assignment\stacklink.h
+
+        <stdint.h>
